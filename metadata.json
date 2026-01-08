@@ -1,0 +1,5 @@
+{
+  "name": "Ngarang.in",
+  "description": "A tool for interns to expand short bullet points into detailed daily reports using Google Gemini.",
+  "requestFramePermissions": []
+}
